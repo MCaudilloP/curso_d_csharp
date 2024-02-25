@@ -1,0 +1,14 @@
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\bin\Debug\net8.0\CsharpSerialización y deserialización.exe
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\bin\Debug\net8.0\CsharpSerialización y deserialización.deps.json
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\bin\Debug\net8.0\CsharpSerialización y deserialización.runtimeconfig.json
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\bin\Debug\net8.0\CsharpSerialización y deserialización.dll
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\bin\Debug\net8.0\CsharpSerialización y deserialización.pdb
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.AssemblyInfoInputs.cache
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.AssemblyInfo.cs
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.csproj.CoreCompileInputs.cache
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.dll
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\refint\CsharpSerialización y deserialización.dll
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.pdb
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\CsharpSerialización y deserialización.genruntimeconfig.cache
+C:\Users\caudillo\source\repos\CsharpSerialización y deserialización\CsharpSerialización y deserialización\obj\Debug\net8.0\ref\CsharpSerialización y deserialización.dll

@@ -1,0 +1,14 @@
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\bin\Debug\net8.0\CsharpProgramacionFuncinal.exe
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\bin\Debug\net8.0\CsharpProgramacionFuncinal.deps.json
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\bin\Debug\net8.0\CsharpProgramacionFuncinal.runtimeconfig.json
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\bin\Debug\net8.0\CsharpProgramacionFuncinal.dll
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\bin\Debug\net8.0\CsharpProgramacionFuncinal.pdb
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.AssemblyInfoInputs.cache
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.AssemblyInfo.cs
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.csproj.CoreCompileInputs.cache
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.dll
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\refint\CsharpProgramacionFuncinal.dll
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.pdb
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\CsharpProgramacionFuncinal.genruntimeconfig.cache
+C:\Users\caudillo\source\repos\CsharpProgramacionFuncinal\CsharpProgramacionFuncinal\obj\Debug\net8.0\ref\CsharpProgramacionFuncinal.dll

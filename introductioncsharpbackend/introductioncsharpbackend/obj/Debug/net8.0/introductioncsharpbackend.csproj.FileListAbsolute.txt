@@ -1,0 +1,14 @@
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\bin\Debug\net8.0\introductioncsharpbackend.exe
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\bin\Debug\net8.0\introductioncsharpbackend.deps.json
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\bin\Debug\net8.0\introductioncsharpbackend.runtimeconfig.json
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\bin\Debug\net8.0\introductioncsharpbackend.dll
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\bin\Debug\net8.0\introductioncsharpbackend.pdb
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.AssemblyInfoInputs.cache
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.AssemblyInfo.cs
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.csproj.CoreCompileInputs.cache
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.dll
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\refint\introductioncsharpbackend.dll
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.pdb
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\introductioncsharpbackend.genruntimeconfig.cache
+C:\Users\caudillo\source\repos\introductioncsharpbackend\introductioncsharpbackend\obj\Debug\net8.0\ref\introductioncsharpbackend.dll
